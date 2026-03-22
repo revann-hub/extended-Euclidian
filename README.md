@@ -1,1 +1,2 @@
-# extended-Euclidian
+
+ This program implements the Extended Euclidean Algorithm to compute the greatest common divisor (GCD) of two integers and finds the modular inverse when it exists. The algorithm returns coefficients x and y such that a·x + b·y = gcd(a,b). If the modular inverse exists, the program displays it and verifies the result. The tool is designed for educational purposes to demonstrate number theory concepts and modular arithmetic operations.extended-Euclidian
